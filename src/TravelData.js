@@ -8,27 +8,27 @@ const TravelData = [
   {
     id: 1,
     placeHeading: "Tokyo",
-    placeImg1: "public/TokyoImage1.jpg",
-    placeImg2: "public/TokyoImage2.jpg",
-    placeImg3: "public/TokyoImage3.jpg",
+    placeImg1: "TokyoImage1.jpg",
+    placeImg2: "TokyoImage2.jpg",
+    placeImg3: "TokyoImage3.jpg",
     placeDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
   },
   {
     id: 2,
     placeHeading: "London",
-    placeImg1: "public/LondonImage1.jpg",
-    placeImg2: "public/LondonImage2.jpg",
-    placeImg3: "public/LondonImage3.jpg",
+    placeImg1: "LondonImage1.jpg",
+    placeImg2: "LondonImage2.jpg",
+    placeImg3: "LondonImage3.jpg",
     placeDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
   },
   {
     id: 3,
     placeHeading: "San Francisco",
-    placeImg1: "public/SFImage1.jpg",
-    placeImg2: "public/SFImage2.jpg",
-    placeImg3: "public/SFImage3.jpg",
+    placeImg1: "SFImage1.jpg",
+    placeImg2: "SFImage2.jpg",
+    placeImg3: "SFImage3.jpg",
     placeDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
   },
