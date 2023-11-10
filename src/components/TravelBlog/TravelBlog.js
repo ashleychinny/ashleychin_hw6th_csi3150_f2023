@@ -1,6 +1,6 @@
 // MyComponent.jsx
 import React from "react";
-import TravelData from "../TravelData";
+import TravelData from "../../TravelData";
 
 const TravelBlog = (props) => {
   return (

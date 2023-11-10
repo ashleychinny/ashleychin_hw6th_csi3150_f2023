@@ -1,6 +1,6 @@
 import React from "react";
-import Hero from "./components/Hero";
-import TravelBlog from "./components/TravelBlog";
+import Hero from "./components/Hero/Hero";
+import TravelBlog from "./components/TravelBlog/TravelBlog";
 import TravelData from "./TravelData";
 
 function App() {
